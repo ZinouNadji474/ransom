@@ -1,0 +1,7 @@
+Crypto
+halo
+colorama
+pycryptodome
+yaspin
+progressbar
+tqdm
